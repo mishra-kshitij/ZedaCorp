@@ -1,2 +1,0 @@
-# ZedaCorp
-Zeda Corp. Site
