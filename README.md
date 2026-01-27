@@ -1,6 +1,6 @@
-# Zeda Corp
+# Zeda Corp.
 
-This repository contains the source code for the official **Zeda Corp corporate website**, hosted as a static site via GitHub Pages.
+This repository contains the source code for the official **Zeda Corp. corporate website**, hosted as a static site via GitHub Pages.
 
 ---
 
